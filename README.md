@@ -3,5 +3,4 @@ an endless open source browser game where you shoot invading words by typing spe
 
 ![alt text](https://github.com/ramishenouda/wordsinvading/blob/master/GitHubAssests/GIF.gif)
 
-The game is a clone to https://zty.pe/ 
-The game is currently under development.
+The game is a clone to https://zty.pe/
