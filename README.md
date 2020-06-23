@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/ramishenouda/AttackOnWords/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="SoulMate, Released under MIT License." />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="AttackOnWords, Released under MIT License." />
   </a>
-   <img src="https://img.shields.io/badge/Made%20with-Java-1f425f.svg" alt="Made with Java" />
+   <img src="https://img.shields.io/badge/Made%20with-Unity-1f425f.svg" alt="Made with Unity" />
 </p>
 
 an endless open source browser game where you shoot invading words by typing specific phrases.</br>
