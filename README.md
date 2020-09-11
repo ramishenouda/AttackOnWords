@@ -1,5 +1,5 @@
-<h1 align="center">
-    AttackOnWords
+<h1  align="center">
+    <a href="http://attackonwords.dx.am/"> AttackOnWords </a>
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@ https://unity3d.com/get-unity/download
 1. Clone the repo.
 
 ```
-git clone https://github.com/ramishenouda/ThePaint.git
+git clone https://github.com/ramishenouda/AttackOnWords.git
 ```
 
 2. Open the project using unity
